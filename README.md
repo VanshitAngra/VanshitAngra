@@ -3,7 +3,7 @@ Hi 👋 My name is Vanshit Angra
 ==============================  
 Welcome to my GitHub Account
 ----------------------------  
-I'm a passionate student currently pursuing my degree in Computer Science Branch.  
+I'm a passionate student currently pursuing my Bachelor's degree in Computer Science Branch.  
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vanshit0018@gmail.com](mailto:vanshit0018@gmail.com)
 
